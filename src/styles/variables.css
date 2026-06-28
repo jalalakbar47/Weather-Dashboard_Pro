@@ -1,0 +1,47 @@
+:root {
+  --bg: #07111f;
+  --bg-alt: #0d1b2d;
+  --surface: rgba(10, 18, 32, 0.72);
+  --surface-strong: rgba(15, 24, 44, 0.9);
+  --surface-border: rgba(255, 255, 255, 0.1);
+  --text: #ecf4ff;
+  --muted: #9fb0c8;
+  --primary: #61dafb;
+  --primary-strong: #3bb6ff;
+  --accent: #7cf7c6;
+  --warning: #ffce6b;
+  --danger: #ff7e91;
+  --success: #6be3a6;
+  --shadow: 0 24px 70px rgba(0, 0, 0, 0.36);
+  --shadow-soft: 0 16px 40px rgba(0, 0, 0, 0.22);
+  --radius-xl: 28px;
+  --radius-lg: 22px;
+  --radius-md: 16px;
+  --radius-sm: 12px;
+  --max-width: 1280px;
+  --font-display: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --font-body: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --focus-ring: 0 0 0 3px rgba(97, 218, 251, 0.28);
+  --chart-grid: rgba(255, 255, 255, 0.12);
+  --chart-axis: var(--muted);
+  --chart-fill-start: rgba(97, 218, 251, 0.9);
+  --chart-fill-end: rgba(97, 218, 251, 0.02);
+  --chart-stroke: var(--primary);
+}
+
+html[data-theme='light'] {
+  --bg: #edf5ff;
+  --bg-alt: #dfeaff;
+  --surface: rgba(255, 255, 255, 0.82);
+  --surface-strong: rgba(255, 255, 255, 0.96);
+  --surface-border: rgba(18, 36, 64, 0.09);
+  --text: #102338;
+  --muted: #52657d;
+  --shadow: 0 24px 70px rgba(36, 71, 115, 0.16);
+  --shadow-soft: 0 16px 40px rgba(36, 71, 115, 0.1);
+  --chart-grid: rgba(16, 35, 56, 0.12);
+  --chart-axis: #6a7f97;
+  --chart-fill-start: rgba(59, 182, 255, 0.92);
+  --chart-fill-end: rgba(59, 182, 255, 0.06);
+  --chart-stroke: #0f8ddf;
+}

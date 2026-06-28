@@ -37,14 +37,31 @@ Weather Dashboard Pro is designed as a GitHub-ready portfolio project that combi
 
 ## Screenshots
 
-Add your own screenshots here after running the app and capturing a desktop, tablet, and mobile view.
+### 🌑 Desktop – Dark Mode
 
-Suggested placeholders:
+![Desktop Dark](./screenshots/desktop-dark.png)
+![Forecast Dark Desktop](./screenshots/forecast-dark-desktop.png)
+![Current Weather & Highlights Dark](./screenshots/current-and-highlights-dark.png)
+![Forecast Dark](./screenshots/forecast-dark.png)
 
-- Desktop dashboard screenshot
-- Mobile dashboard screenshot
-- Dark mode screenshot
-- Weather details / chart screenshot
+### ☀️ Desktop – Light Mode
+
+![Desktop Light](./screenshots/desktop-light.png)
+![Forecast Light Desktop](./screenshots/forecast-light-desktop.png)
+![Current Weather & Highlights Light](./screenshots/current-and-highlights-light.png)
+![Forecast Light](./screenshots/forecast-light.png)
+
+### 📱 Mobile – Dark Mode
+
+![Mobile Dark](./screenshots/desktop-mobile-dark.png)
+![Mobile Current Weather Dark](./screenshots/mobile-current-weather-dark.png)
+![Mobile Highlights Dark](./screenshots/highlights-mbile-dark.png)
+
+### 📱 Mobile – Light Mode
+
+![Mobile Light](./screenshots/desktop-mobile-light.png)
+![Mobile Current Weather Light](./screenshots/mobile-current-weather-light.png)
+![Mobile Highlights Light](./screenshots/highlights-mbile-light.png)
 
 ## Tech Stack
 

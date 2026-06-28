@@ -96,6 +96,16 @@ Preview production build:
 npm run preview
 ```
 
+## Git Workflow
+
+For small updates, keep commits focused and push them separately so the history stays easy to review:
+
+```bash
+git add .
+git commit -m "Describe the small change"
+git push
+```
+
 ## Folder Structure
 
 ```text

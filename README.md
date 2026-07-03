@@ -173,9 +173,7 @@ src/
 - Add CSV export for forecast data
 
 ## Author & Dedication
-
 Created with ❤️ by Jalal Akbar
-
 > Dedicated To My ❤️ J/S — My Inspiration.
 
 ## License

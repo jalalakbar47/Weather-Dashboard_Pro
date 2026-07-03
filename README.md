@@ -175,7 +175,5 @@ src/
 ## Author & Dedication
 Created with ❤️ by Jalal Akbar
 > Dedicated To My ❤️ J/S — My Inspiration.
-
 ## License
-
 MIT License

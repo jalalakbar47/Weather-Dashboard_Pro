@@ -1,9 +1,14 @@
 # Weather Dashboard Pro
 
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Responsive](https://img.shields.io/badge/Responsive-Yes-2EA44F)](#)
+[![Primary language: JavaScript](https://img.shields.io/github/languages/top/jalalakbar47/Weather-Dashboard_Pro?style=flat-square&logo=javascript)](https://github.com/jalalakbar47/Weather-Dashboard_Pro/search?l=javascript)
+[![Technology: React](https://img.shields.io/badge/Technology-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+[![License: MIT](https://img.shields.io/github/license/jalalakbar47/Weather-Dashboard_Pro?style=flat-square)](https://github.com/jalalakbar47/Weather-Dashboard_Pro/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/jalalakbar47/Weather-Dashboard_Pro?style=flat-square)](https://github.com/jalalakbar47/Weather-Dashboard_Pro/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jalalakbar47/Weather-Dashboard_Pro?style=flat-square)](https://github.com/jalalakbar47/Weather-Dashboard_Pro/network/members)
+[![Open issues](https://img.shields.io/github/issues/jalalakbar47/Weather-Dashboard_Pro?style=flat-square)](https://github.com/jalalakbar47/Weather-Dashboard_Pro/issues)
+[![Last commit](https://img.shields.io/github/last-commit/jalalakbar47/Weather-Dashboard_Pro?style=flat-square)](https://github.com/jalalakbar47/Weather-Dashboard_Pro/commits/main)
+[![Workflow status](https://github.com/jalalakbar47/Weather-Dashboard_Pro/actions/workflows/copilot-swe-agent/copilot/badge.svg)](https://github.com/jalalakbar47/Weather-Dashboard_Pro/actions/workflows/copilot-swe-agent/copilot)
+[![Live demo status](https://img.shields.io/website?url=https%3A%2F%2Fweather-dashboard-pro.vercel.app&style=flat-square&label=Live%20Demo)](https://weather-dashboard-pro.vercel.app)
 
 A modern React.js weather dashboard built with Vite, vanilla CSS, LocalStorage persistence, charts, favorites, geolocation, and a polished SaaS-style interface.
 
